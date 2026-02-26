@@ -1,2 +1,3 @@
-pip uninstall aiogram pydantic pydantic-core aiohttp -y
-pip install -r requirements.txt
+aiogram==3.10.0
+aiosqlite==0.20.0
+pydantic>=2.7.0
