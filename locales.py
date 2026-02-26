@@ -3,7 +3,7 @@ TEXTS = {
         # Lang
         "choose_lang": "🌐 Tilni tanlang:",
         # Registration
-        "welcome_new": "👋 Salom! <b>Dental Clinic</b> botiga xush kelibsiz!\n\nBotdan foydalanish uchun ro'yxatdan o'ting.\n\n✏️ Ism va Familiyangizni kiriting:",
+        "welcome_new": "👋 Salom! <b>Dental Service Termez</b> botiga xush kelibsiz!\n\nBotdan foydalanish uchun ro'yxatdan o'ting.\n\n✏️ Ism va Familiyangizni kiriting:",
         "ask_phone": "📞 Telefon raqamingizni yuboring:",
         "share_phone_btn": "📱 Raqamni ulashish",
         "registered_ok": "✅ <b>Ro'yxatdan o'tdingiz!</b>\n\n👤 {name}\n📞 {phone}",
@@ -19,7 +19,7 @@ TEXTS = {
         "choose_time": "🕐 Vaqtni tanlang:\n🟢 Bo'sh  🔴 Band",
         "no_slots": "❌ Bu kunda barcha vaqtlar band.\nBoshqa kun tanlang.",
         "ask_complaint": "📝 Muammo yoki shikoyatingizni qisqacha yozing:\n(O'tkazib yuborish uchun tugmani bosing)",
-        "ask_file": "📎 Rasm yoki fayl yubormoqchimisiz?\n(Tish rasmi, tahlil va hokazo)\n(O'tkazib yuborish uchun tugmani bosing)",
+        "ask_file": "📎 Rasm yoki fayl yubormoqchimisiz?\n(Shifokor qabulidan so'ng aytilganda yuborasiz)\n(O'tkazib yuborish uchun tugmani bosing)",
         "skip_btn": "⏩ O'tkazib yuborish",
         "appt_saved": (
             "✅ <b>Navbatingiz saqlandi!</b>\n\n"
@@ -70,7 +70,7 @@ TEXTS = {
     },
     "ru": {
         "choose_lang": "🌐 Выберите язык:",
-        "welcome_new": "👋 Добро пожаловать в бот <b>Dental Clinic</b>!\n\nДля использования бота пройдите регистрацию.\n\n✏️ Введите имя и фамилию:",
+        "welcome_new": "👋 Добро пожаловать в бот <b>Дентал Сервиcе Термез</b>!\n\nДля использования бота пройдите регистрацию.\n\n✏️ Введите имя и фамилию:",
         "ask_phone": "📞 Отправьте номер телефона:",
         "share_phone_btn": "📱 Поделиться номером",
         "registered_ok": "✅ <b>Вы зарегистрированы!</b>\n\n👤 {name}\n📞 {phone}",
