@@ -25,7 +25,7 @@ def lang(user) -> str:
 
 async def cmd_start(message: Message, state: FSMContext):
     await state.clear()
-
+    await message.answer(f"Sizning ID ingiz: {message.from_user.id}\nADMIN_ID: {ADMIN_ID}")
     if message.from_user.id == ADMIN_ID:
         await message.answer(t("uz", "admin_welcome"), reply_markup=admin_menu())
         return
